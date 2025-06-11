@@ -1,0 +1,5 @@
+- Developed a machine learning model that provides personalized calorie intake recommendations based on user data such as age, weight, height, activity level, and dietary goals. 
+- Designed a user-friendly system that helps individuals track and analyze their calorie intake to support weight loss or other lifestyle goals. 
+- Integrated nutritional datasets and personal health inputs to enhance prediction accuracy and recommendation quality. 
+- Provided a tool that reduces the burden of manual calorie tracking and supports healthier decision-making through data-driven insights. 
+- Contributed to the growing field of personalized health and wellness applications using machine learning.
